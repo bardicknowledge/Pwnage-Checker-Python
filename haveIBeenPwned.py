@@ -1,4 +1,4 @@
-#HaveIBeenPwned: Y Soft
+#HaveIBeenPwned:
 
 import json, csv, sys, time
 from urllib import request, parse
